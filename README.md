@@ -22,3 +22,7 @@ RPSGame--init() allows the player to choose GUI or console. setMove() allows the
 between console and GUI. runGame() holds the game loop. If player chooses console, gui loop must be commented out (and vice versa).
 
 Note* this game was created with Eclipse in java.
+
+Screenshots:
+
+Use Case and Use Case Diagram:
