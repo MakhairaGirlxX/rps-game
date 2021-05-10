@@ -24,7 +24,11 @@ between console and GUI. runGame() holds the game loop. If player chooses consol
 Note* this game was created with Eclipse in java.
 
 Screenshots:
+GUI
 https://user-images.githubusercontent.com/83840115/117696373-d7409500-b186-11eb-9b89-c611ba192426.png
+
+Console
+https://user-images.githubusercontent.com/83840115/117696392-dc054900-b186-11eb-98bf-26148a8d5038.png
 
 
 Use Case and Use Case Diagram:
