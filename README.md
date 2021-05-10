@@ -30,5 +30,3 @@ https://user-images.githubusercontent.com/83840115/117696373-d7409500-b186-11eb-
 Console
 https://user-images.githubusercontent.com/83840115/117696392-dc054900-b186-11eb-98bf-26148a8d5038.png
 
-
-Use Case and Use Case Diagram:
